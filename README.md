@@ -1,2 +1,2 @@
 # GentlemanArray
-E-commerce website 
+E-commerce website (HTML CSS JAVASCRIPT)
